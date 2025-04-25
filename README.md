@@ -1,5 +1,14 @@
 # Corrective Local RAG with Qwen
 
+<img width="584" alt="Screenshot 2025-04-25 at 07 28 07" src="https://github.com/user-attachments/assets/2587ba70-c850-49b4-a204-81beac85ba63" />
+
+<img width="1269" alt="Screenshot 2025-04-25 at 09 57 15" src="https://github.com/user-attachments/assets/b03964cf-abd8-4889-b389-e4706d049d76" />
+
+<img width="599" alt="Screenshot 2025-04-25 at 10 00 03" src="https://github.com/user-attachments/assets/c971f4fa-96da-4a5c-b317-73f1f48425a3" />
+
+<img width="1023" alt="Screenshot 2025-04-25 at 10 10 57" src="https://github.com/user-attachments/assets/b5ebe5d2-c904-424e-a8f0-f798871999fd" />
+
+
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-0.3.50+-green.svg)](https://python.langchain.com/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-0.3.24+-orange.svg)](https://github.com/langchain-ai/langgraph)
